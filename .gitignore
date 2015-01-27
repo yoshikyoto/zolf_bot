@@ -1,0 +1,17 @@
+*~
+.DS_Store
+account*
+out*
+err*
+pid*
+httplib2
+CRF++-0.58
+mecab-0.996
+mecab-ipadic-2.7.0-20070801
+mecab-python-0.996
+cabocha-0.68
+requests-oauthlib
+python-oauth2
+simplejson-3.6.5
+python-twitter-1.1
+yoshi-server.*
