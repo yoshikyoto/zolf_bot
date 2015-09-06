@@ -1,0 +1,7 @@
+#! /usr/bin/env python
+# -*- coding:utf-8 -*-
+
+consumerKey = "V4vTGxKASPDEu9tdfwHl4w"
+consumerSecret = "LbYlIhH0rTItuMOBdAO2vmMC1RUims4jM5vbh5Un7c"
+accessToken = "762989010-y6jYFB50SEJSyyXlC9bry55dWI2IwosPb0Scu1bm"
+accessTokenSecret = "BqisPP2oUEzmIeDuzQ5hisk6J0G0DoKeXiVZlFX80o"
